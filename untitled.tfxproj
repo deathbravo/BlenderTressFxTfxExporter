@@ -1,0 +1,10 @@
+version 3.0
+
+# project name diplaying on GUI (optional)
+project_name untitled_model
+
+# tfx file name (relative path), follow hairs per guide hair (0 means no follow hairs), follow hair growing radius, tip separation factor for guide/follow, simulation setting file name, hair section name appearing on GUI (optional)
+untitled.tfx 4 0.4 5.0 untitled.tfxsim untitledp
+
+
+untitled.sdkmesh
